@@ -1,6 +1,9 @@
 # Original Repo: https://github.com/KamilZywanowski/MinkLoc3D-SI
 
-# NOT MY ORIGINAL WORK, CREDITS TO [MinkLoc3D-SI](https://github.com/KamilZywanowski/MinkLoc3D-SI), THIS IS AN IMPLEMENTATION OF THE ORIGINAL REPO ON NYU GREENE HPC
+# NOT MY ORIGINAL WORK
+
+Credits to [MinkLoc3D-SI](https://github.com/KamilZywanowski/MinkLoc3D-SI), this is an implementation of their repo on the NYU Greene HPC
+
 
 # MinkLoc3D-SI: 3D LiDAR place recognition with sparse convolutions,spherical coordinates, and intensity
 
