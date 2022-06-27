@@ -1,7 +1,8 @@
 # NOT MY ORIGINAL WORK | Original Repo: https://github.com/KamilZywanowski/MinkLoc3D-SI
 
-# Credits to [MinkLoc3D-SI](https://github.com/KamilZywanowski/MinkLoc3D-SI), this is an implementation of their repo on the NYU Greene HPC
+# This repo is an implementation of the above repo on the NYU Greene HPC
 
+# Below is the original README file and my own notes on how to run. Instructions on setting up environment can be found here: [Install Minkowski Engine on NYU Greene HPC](https://github.com/SilvesterYu/NYUGreeneHPC_Notes/blob/main/Install_MinkowskiEngine.md) 
 
 # MinkLoc3D-SI: 3D LiDAR place recognition with sparse convolutions,spherical coordinates, and intensity
 
