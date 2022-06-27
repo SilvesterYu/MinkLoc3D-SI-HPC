@@ -4,6 +4,8 @@
 
 ### Below is the original README file and my own notes on how to run. Instructions on setting up environment can be found here: [Install Minkowski Engine on NYU Greene HPC](https://github.com/SilvesterYu/NYUGreeneHPC_Notes/blob/main/Install_MinkowskiEngine.md) 
 
+---
+
 # MinkLoc3D-SI: 3D LiDAR place recognition with sparse convolutions,spherical coordinates, and intensity
 
 **Most IMPORTANT THING , use the only following command for the Bai Ze Laptop**
